@@ -1,2 +1,2 @@
 # MR_Projects
-My projects at Sopify
+My projects at Shopify
